@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Pages Site
 
-Hello! I'm **[Your Name]**, and this is my personal website hosted with **GitHub Pages**.
+Hello! I'm **Alex McCorkel**, and this is my personal website hosted with **GitHub Pages**.
 
 ## 🌍 Connect with Me
 [GitHub](https://github.com/amccorke) |  
